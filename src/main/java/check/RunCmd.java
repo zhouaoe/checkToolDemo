@@ -25,7 +25,7 @@ public class RunCmd {
     private static String OSS_TEST_ACCESS_KEY_ID     = "";
     private static String OSS_TEST_ACCESS_KEY_SECRET = "";
     //private static String OSS_TEST_ENDPOINT          = "";
-    private static String OSS_TEST_ENDPOINT          = "cn-zhangjiakou.oss-dls.aliyuncs.com";
+    private static String OSS_TEST_ENDPOINT          = "cn-beijing.oss-dls.aliyuncs.com";
 
 
     private static String              bucketName = "dls-hangzhou-r-test";
